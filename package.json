@@ -9,5 +9,5 @@
         "express": "^4.17.1"
     },
     "author": "Nicolas 151",
-    "description": "Un gestionnaire de todolist ultra basique"
+    "description": "Un Chat ultra basique"
 }
